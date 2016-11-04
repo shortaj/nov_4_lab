@@ -7,6 +7,9 @@ img {
   height: 50px;
 }
 p {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 10px;
   font-family: 'Slabo 27px', serif;
 }
 div {
