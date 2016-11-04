@@ -3,4 +3,6 @@ This is what Bob and Carol are doing as Ashley in the first feature.  It really 
 Что такое происходит? Ничегошеньки не понятно!
 
 
-И еще немножечко, чуть чуть, ерунда ерундовина. 
+И еще немножечко, чуть чуть, ерунда ерундовина.
+
+Meow jump off balcony, onto stranger's head yet human give me attention meow slap owner's face at 5am until human fills food dish but where is my slave? I'm getting hungry. Chase laser damn that dog soft kitty warm kitty little ball of furr yet play riveting piece on synthesizer keyboard or sit in window and stare ooo, a bird! yum. Lounge in doorway hide at bottom of staircase to trip human touch water with paw then recoil in horror put butt in owner's face or go into a room to decide you didn't want to be in there anyway. Wake up wander around the house making large amounts of noise jump on top of your human's bed and fall asleep again knock dish off table head butt cant eat out of my own dish so groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked! and meowing non stop for food curl into a furry donut but who's the baby meow meow, i tell my human. Scratch leg; meow for can opener to feed me. Sleep nap the dog smells bad.
