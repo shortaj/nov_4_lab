@@ -9,3 +9,11 @@ img {
 p {
   font-family: 'Slabo 27px', serif;
 }
+div {
+  height: 20px;
+  margin: auto;
+  display: block;
+}
+body {
+  width: 1200px;
+}

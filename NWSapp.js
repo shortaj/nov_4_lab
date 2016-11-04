@@ -3,3 +3,7 @@ function someFunction () {
     someArray[i].name ++;
   }
 }
+
+for (var i = 0; i < someArray.length; i++) {
+  i++;
+}
